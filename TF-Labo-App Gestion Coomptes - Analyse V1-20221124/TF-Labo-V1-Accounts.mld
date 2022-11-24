@@ -1,0 +1,25 @@
+%%mocodo
+:::
+Account: id, numero, receiver, communication, descriminor, isOwner, #id.1->User->id
+:::
+
+
+:
+Transaction: id, totalAmount, createdAt, updatedAt, isActive, #id.1->Account->id, #id.2->Account->id, #id.3->Budget->id, executionDate
+:::
+User: id, username, email, password, createdAt, updatedAt, isActive
+:
+
+
+:
+ventile: #id->Transaction->id, _#id.1->Category->id, amount
+:::::
+
+
+:
+Category: id, label, createdAt, updatedAt, isActive
+:
+define: #id->Budget->id, _#id.1->Category->id
+:
+Budget: id, name, period, updatedAt, isActive, #id.1->User->id, createdAt
+:

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e3f3acb-b84b-4185-bfad-755d082d1518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.tf-cs-gestion-comptes-bdd-et-api.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tf-cs-gestion-comptes-bdd-et-api.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e3f3acb-b84b-4185-bfad-755d082d1518" name="Changes" comment="record before creating thursday Nov 24 2022 branch and redo analysis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="branch-save-post-push-lun-21-nov-2022-soir-risque-push-incomplet" />
       </map>
     </option>
   </component>
@@ -50,6 +48,7 @@
       <updated>1669040821547</updated>
       <workItem from="1669040824529" duration="3813000" />
       <workItem from="1669062946318" duration="464000" />
+      <workItem from="1669282813963" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="add all files - maybe after, i can put some in a git ignore">
       <created>1669041539398</created>
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669044511169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="record before creating thursday Nov 24 2022 branch and redo analysis">
+      <created>1669282975490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669282975490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="branch-save-post-push-lun-21-nov-2022-soir-risque-push-incomplet" />
                       </list>
                     </value>
                   </entry>
@@ -100,6 +106,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add all files - maybe after, i can put some in a git ignore" />
     <MESSAGE value="fichier supplémentaire" />
-    <option name="LAST_COMMIT_MESSAGE" value="fichier supplémentaire" />
+    <MESSAGE value="record before creating thursday Nov 24 2022 branch and redo analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="record before creating thursday Nov 24 2022 branch and redo analysis" />
   </component>
 </project>
