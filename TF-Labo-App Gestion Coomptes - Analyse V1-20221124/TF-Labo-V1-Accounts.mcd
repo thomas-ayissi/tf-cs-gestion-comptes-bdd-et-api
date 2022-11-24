@@ -1,0 +1,15 @@
+creds, 11 Transaction, 0N Account
+Account: id, numero, receiver, communication, descriminor, isOwner
+create2, 0N User, 11 Account
+
+Transaction: id, totalAmount, createdAt, updatedAt, isActive
+debts, 11 Transaction, 0N Account
+User: id, username, email , password, createdAt, updatedAt, isActive
+
+ventile, 1N Transaction, 0N Category: amount
+concern, 0N Budget, 11 Transaction: executionDate
+create, 0N User, 11 Budget: createdAt
+
+Category: id, label, createdAt, updatedAt, isActive
+define, 1N Budget, 0N Category
+Budget: id, name, period, updatedAt, isActive

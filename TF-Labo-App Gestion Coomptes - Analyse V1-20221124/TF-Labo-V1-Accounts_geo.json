@@ -1,0 +1,49 @@
+{
+  "width": 332,
+  "height": 549,
+  "cx": [
+    [ "creds", 52 ],
+    [ "Account", 166 ],
+    [ "create2", 286 ],
+    [ "Transaction", 52 ],
+    [ "debts", 166 ],
+    [ "User", 286 ],
+    [ "ventile", 52 ],
+    [ "concern", 166 ],
+    [ "create", 286 ],
+    [ "Category", 52 ],
+    [ "define", 166 ],
+    [ "Budget", 286 ]
+  ],
+  "cy": [
+    [ "creds", 77 ],
+    [ "Account", 77 ],
+    [ "create2", 77 ],
+    [ "Transaction", 246 ],
+    [ "debts", 246 ],
+    [ "User", 246 ],
+    [ "ventile", 372 ],
+    [ "concern", 372 ],
+    [ "create", 372 ],
+    [ "Category", 481 ],
+    [ "define", 481 ],
+    [ "Budget", 481 ]
+  ],
+  "shift": [
+    [ "creds,Transaction,0", 0 ],
+    [ "creds,Account,0", 0 ],
+    [ "create2,User,0", 0 ],
+    [ "create2,Account,0", 0 ],
+    [ "debts,Transaction,0", 0 ],
+    [ "debts,Account,0", 0 ],
+    [ "ventile,Transaction,0", 0 ],
+    [ "ventile,Category,0", 0 ],
+    [ "concern,Budget,0", 0 ],
+    [ "concern,Transaction,0", 0 ],
+    [ "create,User,0", 0 ],
+    [ "create,Budget,0", 0 ],
+    [ "define,Budget,0", 0 ],
+    [ "define,Category,0", 0 ]
+  ],
+  "ratio": []
+}
