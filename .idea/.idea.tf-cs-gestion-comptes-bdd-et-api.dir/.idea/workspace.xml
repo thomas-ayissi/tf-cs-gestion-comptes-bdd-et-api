@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e3f3acb-b84b-4185-bfad-755d082d1518" name="Changes" comment="add all files - maybe after, i can put some in a git ignore" />
+    <list default="true" id="2e3f3acb-b84b-4185-bfad-755d082d1518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tf-cs-gestion-comptes-bdd-et-api.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tf-cs-gestion-comptes-bdd-et-api.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,19 +27,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669040821547</updated>
-      <workItem from="1669040824529" duration="3538000" />
+      <workItem from="1669040824529" duration="3813000" />
+      <workItem from="1669062946318" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="add all files - maybe after, i can put some in a git ignore">
       <created>1669041539398</created>
@@ -55,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669041539398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fichier supplémentaire">
+      <created>1669044511169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669044511169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add all files - maybe after, i can put some in a git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all files - maybe after, i can put some in a git ignore" />
+    <MESSAGE value="fichier supplémentaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichier supplémentaire" />
   </component>
 </project>
